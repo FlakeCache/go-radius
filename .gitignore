@@ -1,0 +1,23 @@
+# Binaries
+radius-ad
+radius-ad.exe
+radius-ad-linux
+radius-ad-windows.exe
+
+# Build artifacts
+*.o
+*.a
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go
+go.work
+go.work.sum
